@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "hash.h": "c",
+        "stdlib.h": "c",
+        "movie.h": "c",
+        "stdio.h": "c",
+        "funciones.h": "c",
+        "estructuras.h": "c",
+        "typeinfo": "c"
+    },
+    "cmake.sourceDirectory": "/home/mrchickenchu/c/p10"
+}
